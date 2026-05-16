@@ -2,3 +2,45 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'thoughtscribble'
 theme = 'hugo-theme-cleanwhite'
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  header_image = "img/line.jpeg"
+  SEOTitle = "thoughtscribble | Ideas, Tech & Life"
+  description = "A blog about technology, ideas, and everyday life."
+  keyword = "blog, tech, programming, life"
+  slogan = "Think it. Write it. Share it."
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "Nothing to see here."
+  omit_categories = false
+
+  sidebar_about_description = "A blog about technology, ideas, and everyday thinking."
+
+  featured_tags = true
+  featured_condition_size = 1
+
+  friends = false
+  bookmarks = false
+  about_me = true
+  last_posts = true
+
+  [params.social]
+  rss    = true
+  github = "https://github.com/thynkraft"
+
+  [[params.additional_menus]]
+  title = "ARCHIVE"
+  href  = "/archive/"
+  [[params.additional_menus]]
+  title = "ABOUT"
+  href  = "/about/"
+
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

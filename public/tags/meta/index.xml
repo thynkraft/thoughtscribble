@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on thoughtscribble</title>
+    <link>http://localhost:1313/tags/meta/</link>
+    <description>Recent content in Meta on thoughtscribble</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2026 15:25:25 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 16 May 2026 15:25:25 +0530</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;thoughtscribble&lt;/strong&gt; — a place where I write about technology, ideas, and whatever else is on my mind.&lt;/p&gt;&#xA;&lt;p&gt;This is the first post. More to come.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I Write</title>
+      <link>http://localhost:1313/posts/why-i-write/</link>
+      <pubDate>Fri, 15 May 2026 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/why-i-write/</guid>
+      <description>&lt;p&gt;Writing forces clarity. Until you write something down, you don&amp;rsquo;t really know if you understand it — you just think you do.&lt;/p&gt;&#xA;&lt;p&gt;This blog is my way of thinking out loud. Some posts will be technical, some won&amp;rsquo;t. The common thread is that everything here is something I genuinely wanted to work through.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
