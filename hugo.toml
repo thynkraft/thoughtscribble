@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://thoughtscribble.pages.dev/'
 languageCode = 'en-us'
 title = 'thoughtscribble'
 theme = 'hugo-theme-cleanwhite'
